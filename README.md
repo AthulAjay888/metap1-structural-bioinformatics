@@ -1,7 +1,6 @@
-# metap1-structural-bioinformatics
-Structural bioinformatics analysis of Methionine Aminopeptidase-1 (MetAP1) from Mycobacterium tuberculosis using docking and molecular dynamics simulations.
+# MetAP1 Structural Bioinformatics Workflow
+A bioinformatics pipeline for docking and molecular dynamics analysis of inhibitors against Methionine Aminopeptidase-1 (MetAP1) in *Mycobacterium tuberculosis*.
 # Structural Bioinformatics Analysis of MetAP1 (Mycobacterium tuberculosis)
-
 ## Background
 Methionine Aminopeptidase-1 (MetAP1) is an essential enzyme involved in protein maturation and represents a potential therapeutic target in Mycobacterium tuberculosis.
 
